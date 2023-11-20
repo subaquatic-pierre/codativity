@@ -2,7 +2,7 @@
 
 ## Overview
 
-** This repo on stands as reference to the actaull project, this Readme is sourced in my personal portfolio **
+*** This repo on stands as reference to the actaull project, this Readme is sourced in my personal portfolio ***
 
 Codativity's portfolio website showcases the projects and expertise of the software agency. This website serves as a representation of Codativity's capabilities, featuring a Next.js frontend and a Strapi backend for the project portfolio.
 
